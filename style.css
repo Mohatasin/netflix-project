@@ -1,0 +1,193 @@
+body{
+    font-family: 'Pushster', cursive;
+
+    margin: 0%;
+    color: white;
+    background-color: black;
+}
+
+h1{
+  font-size: 64px;
+   color: rgb(221, 35, 35);
+}
+
+ 
+
+
+
+
+h2{
+  font-size: 50px;
+
+
+
+    color: red;
+}
+
+h5{
+  color: blueviolet;
+}
+
+p{
+
+font-size: 20px;
+
+
+}
+a{
+
+  color: rgb(10, 4, 4);
+  border: 1px rgb(163, 73, 163) solid;
+  border-radius: 5px;
+   background-image: linear-gradient(rgb(57, 57, 141),tomato);
+   font-size: 20px;
+   padding: 6px;
+   text-decoration: none;
+}
+
+span{
+  color: violet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.best{
+
+    text-align: center;
+  
+  }
+  
+  
+  
+  .about{
+  
+    font-size: 40px;
+    margin: 5%;
+  }
+
+
+
+
+
+
+
+
+
+.meth{
+
+  margin-left: 5%;
+  float: left;
+  width: 40%;
+  padding: 2%;
+
+
+ 
+}
+
+.meth img{
+
+    width: 100%;
+}
+
+
+
+.meth img{
+  padding-top: 180px;
+}
+
+#tommy{
+  padding-top: 150px;
+}
+
+
+
+
+
+
+
+h5{
+  font-size: 40px;
+}
+
+
+
+
+.bb{
+float: left;
+
+margin-top: 50px;
+
+width: 40%;
+height: 100%;
+
+margin-left: 5%;
+
+
+box-shadow: orchid 10px 10px 40px;
+border-radius: 5px;  
+padding-left: 15px;
+padding-right: 5px;
+
+
+border-left: 5px solid;
+border-image:  linear-gradient(rgb(236, 219, 61),rgb(38, 45, 153));
+border-image-slice: 1;
+
+}
+
+.pb{
+
+  float: right;
+  margin-top: 60px;
+  margin-right: 40px;
+
+
+  
+  width: 40%;
+  height: 100%;
+
+
+  margin-left: 5%;
+box-shadow: orchid 10px 10px 40px;
+border-radius: 5px;
+padding-left: 15px;
+padding-right: 5px;
+
+
+border-left: 5px solid;
+border-image:  linear-gradient(pink,violet);
+border-image-slice: 1;
+
+}
+.vs{
+
+   padding-top: 50px;
+
+   background-image: url(image/exp-bg.png);
+   background-repeat: no-repeat;
+
+
+}
+
+.blank{
+  color: black;
+}
+
